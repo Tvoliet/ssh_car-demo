@@ -142,6 +142,10 @@
 	            alert("请输入密码");
 	            return false;
 	        }
+	        if(document.form1.name.value==""){
+	            alert("用户名必录");
+	            return false;
+	        }
 	        document.form1.submit();
 	     }
 	     
