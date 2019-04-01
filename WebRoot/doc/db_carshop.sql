@@ -1,17 +1,4 @@
-/*
-Navicat MySQL Data Transfer
 
-Source Server         : localhost
-Source Server Version : 50521
-Source Host           : localhost:3306
-Source Database       : db_carshop
-
-Target Server Type    : MYSQL
-Target Server Version : 50521
-File Encoding         : 65001
-
-Date: 2015-10-19 10:41:44
-*/
 
 SET FOREIGN_KEY_CHECKS=0;
 
